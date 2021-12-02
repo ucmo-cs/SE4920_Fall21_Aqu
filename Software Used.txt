@@ -1,0 +1,11 @@
+Unity - Level Design, World Building, etc.
+Visual Studios - C# Scripting
+
+Paint - Sprite Editing
+draw.io - Sprite Creation
+
+Waveform - Recording Audio
+WavePad Sound Editor - Editing Audio
+
+OBS - Video Recording
+Lightworks - Video Editing
